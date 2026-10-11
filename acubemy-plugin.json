@@ -1,0 +1,10 @@
+{
+  "sdk": 1,
+  "id": "cube-racing",
+  "name": "Cube Racing",
+  "author": "Cube Racing Creator",
+  "version": "1.0.0",
+  "description": "Dodge traffic, jump barriers and boost with your Bluetooth smart cube.",
+  "entry": "index.html",
+  "permissions": ["moves"]
+}
